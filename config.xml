@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>Mapas</name>
+
+<description>
+El Chakra te dirá qué color debes mantener contigo para mantener un equilibrio y balance en tu vida.
+Chakra will tell you what color you must keep with you to have a balanced life.
+</description>
+
+<author href="https:dicenquees.blogspot.mx" email="gjrmz87@gmail.com">
+CarpioGJ
+</author>
+
+</widget>
